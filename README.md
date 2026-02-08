@@ -40,10 +40,3 @@ Arco Norte: Santarém (PA), Barcarena (PA), Itaqui (MA)
 
 Sul–Sudeste: Santos (SP)
 
-##  Resultados
-
-Custo total por tonelada
-
-Comparação gráfica entre rotas
-
-Base para análise de risco e capacidade logística
