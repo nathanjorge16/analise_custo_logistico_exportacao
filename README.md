@@ -2,7 +2,7 @@
 
 Modelo em Python para comparação de rotas logísticas de exportação de soja do Mato Grosso para a China, avaliando Arco Norte vs Porto de Santos, com custos em R$/tonelada.
 
-🎯 Objetivo
+## Objetivo
 
 Comparar rotas logísticas de exportação
 
@@ -10,7 +10,7 @@ Calcular custo até o porto + custo marítimo
 
 Apoiar a escolha da rota mais eficiente
 
-🧠 Premissas Principais
+## Premissas Principais
 
 Produção anual informada pelo usuário
 
@@ -22,7 +22,7 @@ Santos → China: 40 dias
 
 Custos unitários (R$/ton)
 
-🚚 Modais e Custos
+## Modais e Custos
 
 Rodoviário: 0.1715 × km + 61.98
 
@@ -34,13 +34,13 @@ Transbordo: R$ 15/ton
 
 Elevação portuária: R$ 30/ton
 
-🗺️ Rotas Avaliadas
+## Rotas Avaliadas
 
 Arco Norte: Santarém (PA), Barcarena (PA), Itaqui (MA)
 
 Sul–Sudeste: Santos (SP)
 
-📊 Resultados
+## Resultados
 
 Custo total por tonelada
 
