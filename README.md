@@ -38,5 +38,5 @@ Elevação portuária: R$ 30/ton
 
 Arco Norte: Santarém (PA), Barcarena (PA), Itaqui (MA)
 
-Sul–Sudeste: Santos (SP)
+Sul–Sudeste: Santos (SP), Paranaguá (PR).
 
